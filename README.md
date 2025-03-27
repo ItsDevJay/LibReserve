@@ -29,6 +29,30 @@ Two days later, this bot was born. 🧠⚡
 
 1. Clone this repo:
 
-```bash
 git clone https://github.com/ItsDevJay/LibReserve.git
 cd rutgers-library-bot
+
+
+Install dependencies:
+pip install -r requirements.txt
+Update the launch_chrome_with_profile() function in main.py with the correct path to your Chrome user profile.
+
+🖥️ Running the Bot
+python main.py
+The bot will guide you step-by-step through:
+- Logging in
+- Picking a date
+- Selecting a start and end time
+- Reserving a room (if available)
+- Finalizing the confirmation
+
+
+🌐 Supported Libraries
+✅ Dana Library (Rutgers–Newark)
+🔜 Coming Soon: Rutgers – Camden, Rutgers - New Brunswick, and more!
+
+🤝 Contributing
+Pull requests are welcome! If you'd like to help add support for other campuses or recurring reservations, feel free to fork the repo and open a PR.
+
+📬 Contact
+Questions or suggestions? Hit me up on LinkedIn or open an issue here on GitHub.
