@@ -6,7 +6,7 @@ A Python + Selenium automation tool that helps Rutgers–Newark students book st
 
 As a Rutgers–Newark student, I realized how slow the library reservation system can be—especially when you're trying to grab a room during busy exam weeks. One night, while prepping for a Calculus 2 study session, I thought:  
 **“Why not automate this?”**  
-Two days later, this bot was born. 🧠⚡
+Two days later, this bot was born.
 
 ## 🎥 [Watch the Tutorial](#) https://youtu.be/eRbLv3eoxtM
 
